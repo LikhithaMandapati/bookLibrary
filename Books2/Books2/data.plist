@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>book1</key>
+	<array>
+		<string>mobile dev</string>
+		<string>Dr.Pradeep</string>
+		<string>iOS</string>
+		<date>2024-01-14T05:01:58Z</date>
+	</array>
+	<key>book2</key>
+	<array>
+		<string>Statistical methods</string>
+		<string>Dr.Pavlidis</string>
+		<string>Statistics</string>
+		<date>2024-01-20T05:03:22Z</date>
+	</array>
+</dict>
+</plist>
